@@ -5,6 +5,9 @@ The goal of this project is to perform data analytics on Zomato restaurant Data 
 
 # Insights
 
+
+https://lookerstudio.google.com/reporting/191f74e7-4ccb-4fc5-81a6-8307d00f4a21
+
 ![image](https://github.com/abhisekde96/zomato-data-engineering-project/assets/155819051/0ee160e8-c2b0-41ac-ae10-134674d1c6ae)
 
 
